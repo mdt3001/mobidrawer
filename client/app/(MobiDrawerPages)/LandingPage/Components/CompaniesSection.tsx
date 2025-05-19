@@ -74,6 +74,7 @@ export default function InnovativeCompaniesSection() {
                                         src={company.src}
                                         alt={`${company.alt} showcase`}
                                         fill
+                                        sizes="(max-width: 800px) 100vw, 800px"
                                         className="object-cover rounded-xl"
                                         priority
                                     />

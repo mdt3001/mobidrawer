@@ -107,12 +107,7 @@ export default function UseCasesSection() {
                                                     }}
                                                     transition={{ duration: 0.2 }}
                                                 >
-                                                    <path
-                                                        strokeLinecap="round"
-                                                        strokeLinejoin="round"
-                                                        strokeWidth={2}
-                                                        d="M9 5l7 7-7 7"
-                                                    />
+                                                   
                                                 </motion.svg>
                                             )}
                                         </div>

@@ -3,7 +3,7 @@ import { redirect } from "next/navigation";
 
 
 export default function Home() {
-  redirect("/user/dashboard");
+  redirect("/LandingPage");
   return (
     <div className="mt-0 font-light">
     </div>
